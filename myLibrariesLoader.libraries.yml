@@ -1,0 +1,7 @@
+pixel_search_library:
+  version: 1.x
+  header: true
+  js:
+    js/pixel_search.js: {}
+  dependencies:
+    - core/jquery
